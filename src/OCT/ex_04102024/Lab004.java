@@ -1,4 +1,4 @@
-package OCT.ex_03102024;
+package OCT.ex_04102024;
 
 public class Lab004
 {
