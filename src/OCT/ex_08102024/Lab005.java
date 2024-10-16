@@ -14,7 +14,7 @@ public class Lab005
         byte t = 127 ;// small value when it comes to numeric
         short s= 32073; // larger than the byte
         int age = 23; // Most commonly used
-        long l= 65765378467578l; // lager than all
+        long l= 65765378467578L; // lager than all
         char grade = 'A'; // it is small when it comes to alhabets and it should always have single coates
 
                        //b. Floating
