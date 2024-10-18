@@ -21,6 +21,11 @@ public class Lab005
         float a= 3.14f; // after the number f is mandatory  small in decimal
         double d = 118.987654321; // lagre in decimal
 
+        /*Non primitive Data type
+            String
+             Arrays
+             enums*/
+
 
 
         System.out.println(t);
