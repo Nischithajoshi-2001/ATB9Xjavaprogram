@@ -1,6 +1,6 @@
 package OCT.ex_11102024_operators;
 
-public class Lab011
+public class Lab011_concatenation
 {
     public static void main(String[] args)
     {

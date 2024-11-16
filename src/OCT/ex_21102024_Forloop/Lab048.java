@@ -1,4 +1,4 @@
-package OCT.ex_19102024_Forloop;
+package OCT.ex_21102024_Forloop;
 
 public class Lab048
 {

@@ -1,6 +1,4 @@
-package OCT.ex_19102024_Forloop;
-
-import java.sql.SQLOutput;
+package OCT.ex_21102024_Forloop;
 
 public class Lab050
 {

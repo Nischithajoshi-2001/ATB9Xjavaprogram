@@ -1,6 +1,6 @@
-package OCT.ex_19102024_Forloop;
+package OCT.ex_21102024_Forloop;
 
-public class Lab052
+public class Lab053
 {
     public static void main(String[] args)
     {
@@ -8,8 +8,9 @@ public class Lab052
         {
             if (i==5)
             {
-                break;
+                continue;//Skip below code ,move to top
             }
+
             System.out.println(i);
         }
 

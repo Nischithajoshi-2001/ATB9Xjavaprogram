@@ -1,4 +1,4 @@
-package OCT.ex_09102024;
+package OCT.ex_09102024_Format_output;
 
 public class Lab007
 {

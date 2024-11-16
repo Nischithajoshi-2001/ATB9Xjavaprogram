@@ -1,4 +1,4 @@
-package OCT.ex_08102024;
+package OCT.ex_08102024_Datatype;
 
 public class Lab005
 {
