@@ -21,7 +21,4 @@ public class Lab023
         System.out.println(result_1);
     }
 
-
-
-
 }

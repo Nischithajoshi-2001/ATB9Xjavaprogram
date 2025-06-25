@@ -4,7 +4,7 @@ public class Lab020
 {
     public static void main(String[] args)
     {
-        // Maximum od 2 numbers
+        // Maximum of 2 numbers
         int a=107, b=20;
         int max = a>b?a:b;
         System.out.println(max);

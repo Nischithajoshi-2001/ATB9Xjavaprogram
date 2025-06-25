@@ -18,19 +18,11 @@ public class Lab014
         System.out.println(!!!!(30>90));
 
         /*
-        OR gare condition
-        t||t= t;
-        t||f =f;
-        f||t =f;
-        f||f =f;
-         */
-
-        /*
-        AND gate condition
-        t&&T=t
-        t&&f=f
-        f&&t=f
-        f&&f=f
+        OR gare condition          AND gate condition
+        t||t= t;                    t&&T=t
+        t||f =t;                    t&&f=f
+        f||t =t;                    f&&t=f
+        f||f =f;                    f&&f=f
          */
 
     }

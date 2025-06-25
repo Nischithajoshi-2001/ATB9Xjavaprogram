@@ -11,7 +11,7 @@ public class Lab031
         System.out.println("Enter your age");
 
         int age = Scanner.nextInt();
-        System.out.println(age>25? "Alloewd to Goa" : "Not allowed");
+        System.out.println(age>25? "allowed to Goa" : "Not allowed");
 
         Scanner.close();
 

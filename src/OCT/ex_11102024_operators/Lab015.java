@@ -9,10 +9,12 @@ public class Lab015
         /* 12>10 = t
         12<5 = f
         t||f =t
-        !t-f
+        !t=f
          */
 
            System.out.println(b);
 
     }
+
+
 }

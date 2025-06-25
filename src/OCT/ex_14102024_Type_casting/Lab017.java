@@ -10,8 +10,8 @@ public class Lab017
          */
 
         //widening -converting small data type into large data type
-        byte a = 100;
-        int b=a; //valid -> Implicit casting JVM
+        byte a = 100; //(1 byte = 8 bites)
+        int b=a; //  (32 bites) valid -> Implicit casting JVM
         int b1=(int)a; //valid Explicit casting user
 
         // Narrowing - converting large data type into small data type

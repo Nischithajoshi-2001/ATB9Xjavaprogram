@@ -10,7 +10,7 @@ public class Lab018
          Ternary operator/ Conditional operator
          Syntax = result = condition ? expression1 : expression2;
          */
-        int number =5;
+        int number =11;
         String Result = number > 0 ?"positive": "negative";
         System.out.println(Result);
     }

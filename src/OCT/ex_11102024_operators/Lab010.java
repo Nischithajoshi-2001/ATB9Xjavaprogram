@@ -13,7 +13,7 @@ public class Lab010
         //    - `!=`  (Not equal to)
 
         int a=10, b=30;
-        boolean c=a <  b;
+        boolean c = a >  b;
 
         System.out.println(c);
 
